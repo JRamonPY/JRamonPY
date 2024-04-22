@@ -1,4 +1,8 @@
-<h1 align="left">JRamon.Py</h1>
+<h1 align="right">JRamon.Py</h1>
+
+###
+<p align = "center">
+  <img src="https://github.com/JRamonPY/Portafolios/blob/main/_c2fa22b4-bbd0-4f38-aa09-36dbf01557f7.jpg" width="170" height="170" />
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 Estudiante de Ingeniería Telemática.<br>📚 Técnico Superior en Sistemas de Telecomunicación e Informática.<br>📫 jramonsl@gmail.com<br>📄www.linkedin.com/in/jramonpy</p>
+<p align="left">🌱 Estudiante de Ingeniería Telemática.<br>📚 Técnico Superior en Sistemas de Telecomunicación e Informática.<br>📫 jramonsltrabajo@gmail.com<br>📄www.linkedin.com/in/jramonpy</p>
 
 ###
 
@@ -35,4 +39,4 @@
 </div>
 
 ###
-![https://github.com/JRamonPY/Portafolios/blob/main/_c2fa22b4-bbd0-4f38-aa09-36dbf01557f7.jpg]
+
