@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 Estudiante de Ingeniería Telemática.<br>📚 Técnico Superior en Sistemas de Telecomunicación e Informática.<br>📫 jramonsltrabajo@gmail.com<br>📄www.linkedin.com/in/jramonpy</p>
+<p align="left">📚 Técnico Superior en Sistemas de Telecomunicación e Informática.<br>🌱 Estudiante de Ingeniería Telemática.<br>📫 jramonsltrabajo@gmail.com<br>📄www.linkedin.com/in/jramonpy</p>
 
 ###
 
